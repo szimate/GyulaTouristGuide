@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/basic">
+
+    <ImageView
+        style="@style/basic"
+        android:scaleType="centerCrop"
+        android:src="@drawable/gyula" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/twenty00_dp"
+        android:layout_marginTop="@dimen/twenty0_dp"
+        android:background="@color/white_1"
+        android:rotation="15">
+
+        <TextView
+            style="@style/home"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/twenty0_sp"
+            android:layout_marginTop="@dimen/twenty0_sp" />
+
+    </LinearLayout>
+
+
+</RelativeLayout>

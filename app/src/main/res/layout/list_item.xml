@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container_outer"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/twenty00_dp">
+
+    <ImageView
+        android:id="@+id/image_cover"
+        android:layout_width="@dimen/seven0_dp"
+        android:layout_height="@dimen/seven0_dp"
+        android:layout_centerVertical="true"
+        android:contentDescription="@string/item_cover" />
+
+    <LinearLayout
+        android:id="@+id/text_container"
+        style="@style/basic"
+        android:layout_toEndOf="@id/image_cover"
+        android:orientation="vertical"
+        android:paddingEnd="@dimen/twenty0_dp"
+        android:paddingStart="@dimen/twenty0_dp">
+
+        <TextView
+            android:id="@+id/name"
+            style="@style/medium"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="2"
+            android:textSize="@dimen/twenty0_sp"
+            tools:text="Hamburger Bár" />
+
+        <TextView
+            android:id="@+id/info"
+            style="@style/medium_middle"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            tools:text="Fast Food" />
+
+        <TextView
+            android:id="@+id/open"
+            style="@style/medium"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="2"
+            tools:text="Open:" />
+
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/move"
+        android:layout_width="@dimen/three0_dp"
+        android:layout_height="@dimen/three0_dp"
+        android:layout_alignParentEnd="true"
+        android:layout_centerVertical="true"
+        android:layout_marginEnd="@dimen/twenty0_sp"
+        android:contentDescription="@string/place_icon"
+        android:src="@drawable/ic_place" />
+</RelativeLayout>

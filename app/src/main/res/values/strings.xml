@@ -1,0 +1,144 @@
+<resources>
+    <string name="app_name">Gyula Tourist Guide</string>
+    <string name="item_cover">item cover</string>
+    <string name="place_icon">place icon</string>
+    <string name="gyula">#Gyula</string>
+
+    <!--page_name-->
+    <string name="home">Home</string>
+    <string name="recreation">FreeTime</string>
+    <string name="food">Food</string>
+    <string name="accommodation">Hotel</string>
+    <string name="history">History</string>
+
+    <!--history-->
+    <string name="history_1">Gyula Castle</string>
+    <string name="history_2">Almásy Castle</string>
+    <string name="history_3">Wenckheim Castle - Szabadkígyós</string>
+    <string name="history_4">Wenckheim Castle ruin - Póstelek</string>
+    <string name="history_5">House of Erkel Ferenc</string>
+    <string name="history_6">House of water and landscape</string>
+
+    <!--event-->
+    <string name="event_1">Festival of sausage Gyula</string>
+    <string name="event_2">Festival of palinka</string>
+    <string name="event_3">Festival of flowers</string>
+    <string name="event_4">Festival of castles</string>
+    <string name="event_5">Festival of folk dance</string>
+
+    <!--food-->
+    <string name="food_1">Geza"'"s kitchen</string>
+    <string name="food_2">Hamburger Bar</string>
+    <string name="food_3">Fisherman"'"s chapel</string>
+    <string name="food_4">Komlo restaurant</string>
+    <string name="food_5">Scorpion pizza</string>
+    <string name="food_6">Beer cellar restaurant</string>
+    <string name="food_7">Várkonyi bistro</string>
+
+    <!--cafe-->
+    <string name="cafe_1">Manuel caffe</string>
+    <string name="cafe_2">Bodoky cafe shop</string>
+    <string name="cafe_3">A 100 years old confectionery</string>
+    <string name="cafe_4">Kis kézműves confectionery</string>
+
+    <!--recreation-->
+    <string name="recreation_1">Gyula Castle Spa</string>
+    <string name="recreation_2">Szanazug beach</string>
+    <string name="recreation_3">Gokart</string>
+    <string name="recreation_4">Horse ride</string>
+    <string name="recreation_5">Escape room</string>
+
+    <!--accommodation-->
+    <string name="accomodation_1">Corso Boutique Hotel</string>
+    <string name="web_1">https://www.gyulahotelcorso.hu</string>
+    <string name="accomodation_2">Elizabeth Hotel Superior</string>
+    <string name="web_2">https://www.gyulahotelcorso.hu</string>
+    <string name="accomodation_3">Hunguest Hotel Erkel</string>
+    <string name="web_3">https://www.gyulahotelcorso.hu</string>
+    <string name="accomodation_4">Fodor Hotel</string>
+    <string name="web_4">https://www.gyulahotelcorso.hu</string>
+    <string name="accomodation_5">Park Hotel Gyula</string>
+    <string name="web_5">https://www.gyulahotelcorso.hu</string>
+    <string name="accomodation_6">Komló Hotel Gyula</string>
+    <string name="web_6">https://www.gyulahotelcorso.hu</string>
+
+    <!--location-->
+    <string name="rec_loc1">Gyula, Gyulai vár</string>
+    <string name="rec_loc2">Gyulai Almásy-kastély Látogatóközpont</string>
+    <string name="rec_loc3">Wenckheim Palace Szabadkígyós</string>
+    <string name="rec_loc4">Széchenyi-Wenckheim kastélyrom</string>
+    <string name="rec_loc5">Gyula, Apor Vilmos tér</string>
+    <string name="rec_loc6">Gyula, Városház u. 25</string>
+    <string name="rec_loc7">Géza Konyhája</string>
+    <string name="rec_loc8">Hamburger Bár</string>
+    <string name="rec_loc9">Fodor Hotel Halászcsárda</string>
+    <string name="rec_loc10">Komló Étterem</string>
+    <string name="rec_loc11">Skorpió pizzéria</string>
+    <string name="rec_loc12">Sörpince Vendéglő</string>
+    <string name="rec_loc13">Várkonyi Bistro Bar</string>
+    <string name="rec_loc14">Manuel Caffé</string>
+    <string name="rec_loc15">Bodoky Kávéműhely</string>
+    <string name="rec_loc16">100 Éves Cukrászda</string>
+    <string name="rec_loc17">Kézműves Cukrászda</string>
+    <string name="rec_loc18">Gyulai Várfürdő</string>
+    <string name="rec_loc19">Szanazug Üdülő</string>
+    <string name="rec_loc20">Gyula-Ring</string>
+    <string name="rec_loc21">Lovas Centrum Gyula</string>
+    <string name="rec_loc22">Odalent.hu</string>
+    <string name="rec_loc23">Gyula Kossuth Lajos tér</string>
+
+    <!--date-->
+    <string name="date_1">Middle of March</string>
+    <string name="date_2">Last weekend of April</string>
+    <string name="date_3">Middle of May</string>
+    <string name="date_4">End of July</string>
+    <string name="date_5">End of June</string>
+
+    <!--open-->
+    <string name="open_1">08 00 "-" 19 00</string>
+    <string name="open_2">It depends on the weather</string>
+    <string name="open_3">13 00 "-" 19 00</string>
+    <string name="open_4">10 00 "-" 18 00</string>
+    <string name="open_5">Weekdays: 10 00 "-" 16 00</string>
+    <string name="open_6">Always Open</string>
+    <string name="open_7">11 00 "-" 21 00</string>
+    <string name="open_8">08 00 "-" 23 30</string>
+    <string name="open_9">11 00 "-" 23 00</string>
+    <string name="open_10">10 00 "-" 22 00</string>
+    <string name="open_11">10 00 "-" 23 00</string>
+    <string name="open_12">07 30 "-" 23 00</string>
+    <string name="open_13">09 00 "-" 19 00</string>
+    <string name="open_14">10 00 "-" 18 00</string>
+    <string name="open_15">09 00 "-" 21 00</string>
+    <string name="open_16">08 00 "-" 15 00</string>
+
+    <!--fee-->
+    <string name="fee_1">1000 HUF/day</string>
+    <string name="fee_2">1200 HUF/day</string>
+    <string name="fee_3">Free</string>
+    <string name="fee_4">From 2300 HUF</string>
+    <string name="fee_5">10 min/ 2000 HUF</string>
+    <string name="fee_6">6000 HUF / Team (2"-"5 person)</string>
+    <string name="fee_7">Free/500 HUF</string>
+    <string name="fee_8">1800 HUF</string>
+    <string name="fee_9">2200 HUF</string>
+    <string name="fee_10">600 HUF</string>
+    <string name="fee_11">+36 30 5654515</string>
+    
+    <!--type-->
+    <string name="type_1">Fine dining</string>
+    <string name="type_2">Fast Food</string>
+    <string name="type_3">Traditional</string>
+    <string name="type_4">Cafe/Spirits</string>
+    <string name="type_5">Cafe/Beers</string>
+    <string name="type_6">Cafe/Deserts</string>
+
+    <!--url-->
+    <string name="url_1">http://gyulahotelcorso.hu/en/</string>
+    <string name="url_2">http://www.elizabeth-hotel.hu/eng/</string>
+    <string name="url_3">https://www.hunguesthotels.hu/en/hotel/gyula/hunguest_hotel_erkel/</string>
+    <string name="url_4">http://www.hotelhalaszcsarda.hu/en</string>
+    <string name="url_5">http://parkhotelgyula.hu/</string>
+    <string name="url_6">https://www.komlohotelgyula.hu/</string>
+
+</resources>
